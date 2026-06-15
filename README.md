@@ -1,1 +1,1 @@
-![Feito no Brasil](https://feitonobrasil.dev.br)
+<img src="https://feitonobrasil.dev.br" width="150" alt="Selo Feito no Brasil">
