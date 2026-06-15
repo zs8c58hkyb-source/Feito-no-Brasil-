@@ -1,1 +1,3 @@
-https://selo.feitonobrasil.dev.br/pt-br/colorido/1x.svg
+<p align="center">
+  <img src="https://feitonobrasil.dev.br" alt="Selo Feito no Brasil">
+</p>
